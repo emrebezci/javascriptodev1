@@ -1,0 +1,17 @@
+.text-1 {
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+}
+
+#showClock {
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+}
+
+img {
+  margin-top: 80px;
+  width: 17%;
+  margin-bottom: 20px;
+}
